@@ -233,6 +233,34 @@ Popular collection styles
     font-weight: 700;
 }
 
+/* footer  */
+.footer {
+    margin-top: 100px;
+    background: #0A0826;
+    text-align: center;
+    height: 239px;
+}
+
+.footer-info h1 {
+    font-size: 24px;
+    color: #ffffff;
+    font-weight: 700;
+    padding-top: 50px;
+}
+
+.footer-info p {
+    color: #D9DBE1;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 10px 0 30px 0;
+}
+
+.fa-link {
+    font-size: 24px;
+    color: #ffffff;
+    margin-left: 15px;
+}
+
 /*---------------------------
  Media query for mobile  
 ---------------------------*/
