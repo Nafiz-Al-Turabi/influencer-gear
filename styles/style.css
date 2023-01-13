@@ -182,13 +182,55 @@ Popular collection styles
     color: #e02c6dde;
     font-weight: 700;
     font-size: 16px;
-    background:none;
+    background: none;
     border: none;
     margin-top: 20px;
     margin-right: 50px;
 }
-.fa-collection{
+
+.fa-collection {
     margin-left: 20px;
+}
+
+/*----------------------------
+ featured-products styles 
+----------------------------*/
+.featured {
+    margin-top: 100px;
+}
+
+.featured-products {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 96px
+}
+
+.featured-products-info {
+    margin-right: 50px;
+}
+
+.product-heading {
+    color: #0A0826;
+    font-weight: 700;
+    font-size: 38px;
+}
+
+.product-description {
+    color: #6C6C6C;
+    font-weight: 700;
+    font-size: 16px;
+    margin: 16px 0;
+}
+
+.product-btn {
+    color: #ffffff;
+    background: #E02C6D;
+    width: 155px;
+    height: 44px;
+    border: none;
+    font-size: 16px;
+    font-weight: 700;
 }
 
 /*---------------------------
