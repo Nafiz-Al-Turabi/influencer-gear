@@ -310,4 +310,26 @@ Popular collection styles
     hr {
         display: none;
     }
+
+    /* Popular collection  */
+    .popular-collections {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+    }
+
+    /* .featured .collection */
+    .featured-products {
+        flex-direction: column-reverse;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .featured-products-info {
+        text-align: center;
+        margin: 0;
+    }
+
 }
